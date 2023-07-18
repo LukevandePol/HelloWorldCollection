@@ -4,4 +4,5 @@ Every language has a directory. This directory contains the hello world program 
 
 ## Languages in this directory
 
+* C++
 * Python
